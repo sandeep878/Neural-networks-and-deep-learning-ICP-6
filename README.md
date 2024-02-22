@@ -1,1 +1,4 @@
-# Neural-networks-and-deep-learning-ICP-6
+NAME: PUPPALA SANDEEP KUMAR
+700#  700748337
+ID  : SXP83370
+MAIL: sxp83370@ucmo.edu
